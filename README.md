@@ -1,0 +1,1 @@
+# integer-ikililerin-toplami
